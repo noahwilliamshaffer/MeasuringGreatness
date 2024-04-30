@@ -1,4 +1,4 @@
-# Measuring Greatness: Predicting NBA Season MVP
+#Predicting NBA Season MVP
 
 ## Project Description
 
